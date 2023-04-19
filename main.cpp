@@ -1,5 +1,5 @@
 #include <iostream>
-// #include "FactoryPattern.h"
+// #include "FactoryPattern.h"  //工厂模式类中和装饰模式类中定义了相同名称的类Shape,所以演示时需要注释掉其中一个，分开演示
 #include "SinglePattern.h"
 #include "BuilderPattern.h"
 #include "AdapterPattern.h"
